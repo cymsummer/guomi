@@ -1,0 +1,20 @@
+{
+  "name": "summer/guomi",
+  "autoload": {
+    "psr-4": {
+      "summer\\guomi\\": "utility"
+    }
+  },
+  "authors": [
+    {
+      "name": "chuyumi",
+      "email": "13041203572@163.com"
+    }
+  ],
+  "require": {
+    "lpilp/guomi": "^1.0"
+  },
+  "require-dev": {
+    "phpunit/php-invoker": "^2.0"
+  }
+}
