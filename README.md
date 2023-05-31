@@ -159,7 +159,7 @@ $m2DecryptData = $base64Sm2->sm2Decrypt($m2EncryptData, $privateKey);
 var_dump("\n解密后:" . $m2DecryptData);
 ```
 
-## 自己公司业务场景
+## 公司业务场景
 
 ## Signature类使用说明
 
