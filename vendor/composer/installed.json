@@ -87,17 +87,17 @@
         },
         {
             "name": "lpilp/guomi",
-            "version": "v1.0.7",
-            "version_normalized": "1.0.7.0",
+            "version": "v1.0.9",
+            "version_normalized": "1.0.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lpilp/phpsm2sm3sm4.git",
-                "reference": "2a8d3b096926320e436c8dcbeb32237138e4e015"
+                "reference": "9d342416acec45db0d38dd3a8fbc1904463e6b31"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lpilp/phpsm2sm3sm4/zipball/2a8d3b096926320e436c8dcbeb32237138e4e015",
-                "reference": "2a8d3b096926320e436c8dcbeb32237138e4e015",
+                "url": "https://api.github.com/repos/lpilp/phpsm2sm3sm4/zipball/9d342416acec45db0d38dd3a8fbc1904463e6b31",
+                "reference": "9d342416acec45db0d38dd3a8fbc1904463e6b31",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -110,7 +110,7 @@
                 "mdanter/ecc": "^1.0",
                 "php": ">=7.2"
             },
-            "time": "2023-05-17T05:51:34+00:00",
+            "time": "2024-02-04T08:43:06+00:00",
             "type": "library",
             "installation-source": "dist",
             "autoload": {
@@ -134,7 +134,7 @@
             "description": "国密sm2",
             "support": {
                 "issues": "https://github.com/lpilp/phpsm2sm3sm4/issues",
-                "source": "https://github.com/lpilp/phpsm2sm3sm4/tree/v1.0.7"
+                "source": "https://github.com/lpilp/phpsm2sm3sm4/tree/v1.0.9"
             },
             "install-path": "../lpilp/guomi"
         },

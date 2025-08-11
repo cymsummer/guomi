@@ -6,8 +6,9 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'summer\\guomi\\' => array($baseDir . '/utility'),
+    'Utility\\' => array($baseDir . '/utility'),
     'Rtgm\\' => array($vendorDir . '/lpilp/guomi/src'),
     'Mdanter\\Ecc\\' => array($vendorDir . '/mdanter/ecc/src'),
+    'Libs\\' => array($baseDir . '/libs'),
     'FG\\' => array($vendorDir . '/fgrosse/phpasn1/lib'),
 );

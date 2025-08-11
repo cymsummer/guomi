@@ -2,7 +2,8 @@
   "name": "summer/guomi",
   "autoload": {
     "psr-4": {
-      "summer\\guomi\\": "utility"
+      "Utility\\": "utility",
+      "Libs\\": "libs"
     }
   },
   "authors": [
@@ -12,7 +13,8 @@
     }
   ],
   "require": {
-    "lpilp/guomi": "^1.0"
+    "lpilp/guomi": "^1.0",
+    "ext-gmp": "*"
   },
   "require-dev": {
     "phpunit/php-invoker": "^2.0"
